@@ -1,5 +1,5 @@
 # EnviSounds dataset visualisations
-Vairous Streamlit apps exploring the contents of EnviSounds dataset (in preparation)
+Various Streamlit apps exploring the contents of EnviSounds dataset (in preparation)
 
 ## Within-category plots
 
