@@ -41,7 +41,7 @@ https://envisoundsvisualisations-audiofile-visualisation.streamlit.app/
 
 Select the audio file you want to preview
 - For now you need to select a file stored on your local machine
-- For now only visualisation of a single file are available
+- For now only visualisations of a single file are available
 
 Available plots:
 - Waveform
