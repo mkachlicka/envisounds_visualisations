@@ -10,11 +10,11 @@ Select the category to preview from the dropdown menu
 
 Available plots:
 - Similarity matrices - show similiariy for all 10 items within each class rated by human participants via pairwise similarity task
-- MDS representations - derived from similarity data; available as 2D, 3D and rotable 3D plot
+- MDS representations - derived from similarity data; available as 2D, 3D and rotatable 3D plot
 - Goodness of category - show average ratings (with arror bars) of human participants of how good exemplar of each category a given sounds is
 
 ### Notes
-3D rotable plot requires WebGL enabled on your browser. To check if it works go to: https://get.webgl.org/ you should see a spinning cube there. If you don't, you might need to enable WebGL.
+3D rotatable plot requires WebGL enabled on your browser. To check if it works go to: https://get.webgl.org/ you should see a spinning cube there. If you don't, you might need to enable WebGL.
 
 #### Chrome
 WebGL should be enabled in recent versions of Chrome. If you aren’t able to run WebGL in Chrome, make sure that you update to the most recent version of Chrome.
